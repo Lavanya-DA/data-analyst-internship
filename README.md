@@ -83,6 +83,6 @@ data-analyst-internship/
 │   └── Project visualizations
 │
 ├── report/
-│   └── Internship report
+│   └── Report.docx
 │
 └── README.md
